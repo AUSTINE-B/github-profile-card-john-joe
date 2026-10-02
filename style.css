@@ -12,3 +12,11 @@ body{
     text-align: center;
     border-radius:  8px;
 }
+    table {
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 10px;
+    }
