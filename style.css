@@ -47,7 +47,16 @@ p{
 }
 table{
     margin: auto;
+ text-shadow:-1px -1px 1px #010101;
+    color: rgba(96, 98, 249, 0.5); 
+    font-size: 1.2em;
 }
 .tape{
-    margin-left: 460px;
+    text-align: center;
+    font-size: 2;
+}
+th,td,.tape{
+    text-shadow:-1px -1px 1px #010101;
+    color: rgba(96, 98, 249, 0.5); 
+    font-size: 1.2em;
 }
